@@ -40,5 +40,65 @@ Vamos de lo grueso a lo fino:
   * Lograr máxima ilusión con mínimo voltaje.
 
   * Estudiar el sonido con el cuerpo, mantener la perspectiva
+  * 
+  
+#Metodo del operador de sonido de sala (part)
+
+V.corta
+
+Advertencia: Los pasos aquí descritos solo representan una de las múltiples formas de aproximarse al problema de operar sonido de sala.
+
+## Prueba de sonido
+
+### Preparación de la mesa
+
+- Conforma salidas y ajusta el sistema (PA, Front-Out-Fills, REC, TV) 
+- Conforma un canal para copiar y pegar (un poco de ganancia, HPF, Dynamics, Aux, DCA[band], Mute Group[1])
+- DCA's (Principalmente dos DCA [lead] [band])
+- Capa del Usuario (Para lanzamiento de efectos)
+- Macros/User Defined (Tap Delay, Page Bookmarks)
+- Revisión y ajuste de efectos con ruido rosa
+
+
+### Prueba de líneas
+
+- Compuertas (Gate) apagadas
+- Ganancia 
+- Verifica Input patch
+- Verifica +48v
+- Toca las capsulas de los micrófonos
+- Revisa el cable de llegada a las cajas directas con un micrófono.
+- Verificar los micrófonos inalambricos en las peores posiciones (frente al PA, frontfills, monitores)
+
+### Prueba con músicos
+
+- Ajusta estructura de ganancia
+- EQ (lo mas pronto que pueda tenerlos en contexto... todos tocando juntos)
+- Practica los efectos
+- Experimenta
+
+## Concierto
+
+### T-10 (10 minutos antes de iniciar)
+Verifica voz principal, instrumentos que hacen solos, y que la consola este abierta en todos los componentes del sistema.
+
+### Inicio
+
+- Adaptación acústica, 
+- Cuidar la realimentación, 
+- Reconstruir la estructura de ganancia y ecualización, 
+- Efectos, 
+- Estabilizar la mezcla.
+
+### Rodando
+
+- Prepararse para las acciones puntuales, 
+- Verificar zonas (frontfill, outfills, demorados, tv, radio)
+
+### Snapshots
+
+- Configuran efectos,
+- Mutes, eq.
+
 
 
