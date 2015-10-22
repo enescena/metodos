@@ -1,0 +1,1 @@
+Montaje de tracks ( ) Colores y nombres ( ) Limpieza gates, y ediciones ( ) Hacer inicio y final ( ) Paneos y Niveles ( ) *Chequear fase. ( ) >Grupos ( ) --Backup ( ) Secciones ( ) Intro ( ) Versos ( ) Coros ( ) Interludios ( ) Final ( ) Render ( ) Eviar a seguidores ( ) Revision 1 ( ) Render ( ) Enviar ( ) Revision 2 ( ) Render ( ) Enviar ( )
