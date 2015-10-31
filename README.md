@@ -1,12 +1,13 @@
-metodos
+Métodos
 =======
 
-Herramientas para repetir muchas veces algún proceso categorizados por las convenciones usadas en los ciclos RSPV
+Colección de métodos para repetir muchas veces algún proceso categorizados por las convenciones usadas en los ciclos RSPV https://en.wikipedia.org/wiki/RSVP_cycles
+
 
 **Resources** (Recursos)
 Cualquier cosa que pueda ser usada en el proceso, incluyendo tiempo, materiales físicos, otras personas, ideas, limitaciones etc.
 
-**Score** (Sintesis)
+**Score** (Síntesis)
 Instrucciones para el trabajo. En muchos casos es una síntesis gráfica, diagrama, etc.
 
 **Valuation**(Valoración)
