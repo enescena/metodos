@@ -37,9 +37,11 @@ Haga una lista de chequeo para su evento, tenga dos planes de contingencia, reú
 * Comunicación: Elabore un Teaser, portafolio, o algo físico que represente su espectáculo sin su presencia; Prepare su afiche intente que sea de colección, puede hacer una franja donde escribe con marcador las fechas y lugares específicos de la gira, pues pueden cambiar, elabore una estrategia con metas concretas, mida esas metas durante el proceso y tenga planes de emergencia para activar si las cosas no estan saliendo como esperaba.
 * Dinero: Haga el presupuesto, teniendo en cuenta imprevistos y suponga un flujo de caja o sea qué dinero irá entrando y saliendo a medida que se acerque su gira, durante ella, y luego de ella, con el presupuesto visite posibles aliados finacieros y plantee, intente financiar toda la gira y dejar la boletería como utilidad.
 * Producción: Ensaye todos los aspectos de su puesta en escena, simule luces, movimientos escenográficos, cuando tenga un buen porcentaje del presupuesto negociado, contrate sonido, luces, etc.
+* Textos: Son difíciles de escribir pero fáciles de guardar, publicar, transmitir, consumir, 200 a 300 palabras es un buen objetivo, ayuda mucho si va acompañado de una imágen.
 
 ### Un mes antes:
 * Dinero: Gestione todo el papeleo para que el dinero que necesita este disponible a tiempo
+
 
 ### El dïa del evento:
 * Producción: Coordine la prueba de sonido, luces etc.
@@ -72,5 +74,4 @@ Verifique las condiciones de seguridad de los riesgos que notó en la visita té
 
 
 ---
-Colaboradores para este doc: estebangira, medina, luisafarf, elanden, alex
-
+Colaboradores para este doc: estebangira, medina, luisafarf, elanden, alex, newmusicstrategies
