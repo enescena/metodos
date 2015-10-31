@@ -5,13 +5,13 @@ Colección de métodos para repetir muchas veces algún proceso categorizados po
 
 
 **Resources** (Recursos)
-Cualquier cosa que pueda ser usada en el proceso, incluyendo tiempo, materiales físicos, otras personas, ideas, limitaciones etc.
+Algo que se tiene y se va a trabajar con ello, algo cosa que pueda ser usada en el proceso, inventarios, incluyendo tiempo, materiales físicos, otras personas, ideas, limitaciones, motivaciones, metas etc.
 
-**Score** (Síntesis)
-Instrucciones para el trabajo. En muchos casos es una síntesis gráfica, diagrama, etc.
+**Score** (Simbolizaciones de procesos)
+Instrucciones para el trabajo, donde se describen los procesos que llevan a la presentación o realización, En muchos casos es una síntesis gráfica, diagrama, etc.
 
-**Valuation**(Valoración)
-Un proceso, basado en valoress, de ir respondiendo dinámicamente al trabajo
+**Valuaction**(Valoracción)
+Analiza el resultado de las acciones, con la posibilidad de seleccionar y tomar desiciones. El término "Valuaction" sugiere tanto los aspectos de acción y desición, va respondiendo dinámicamente al trabajo
 
 **Performance** (Presentación)
-Poner el trabajo en movimiento, hacer, realización, instancia.
+El resultado de los *Scores* y es lo que refleja  el *estilo* del proceso.
