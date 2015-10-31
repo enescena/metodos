@@ -59,7 +59,8 @@ perfeccionada está la temática?*
 #### Impresiones involuntarias
 
 
-## Dominio de la experiencia *Que tanto control control se tiene sobre cada uno de los aspectos*
+## Dominio de la experiencia
+*Que tanto control control se tiene sobre cada uno de los aspectos*
 #### Entretenimiento
 
 #### Educación:
@@ -71,6 +72,8 @@ perfeccionada está la temática?*
 #### Escapismo:
 *¿en qué momentos lograron los asistentes alterar el curso de la experiencia o el resultado final?*
 
+---
+### Potencial de transformacón de la experiencia
 #### Eliminar
 
 #### Reducir
@@ -81,7 +84,11 @@ perfeccionada está la temática?*
 
 #### Aumentar
 
+---
+
 ## Línea de tiempo
 
 
-### Percepción sobre la duración:
+### Percepción sobre la duración
+
+### Claridad sobre las secciones
