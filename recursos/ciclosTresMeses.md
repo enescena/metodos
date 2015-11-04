@@ -71,7 +71,42 @@ Verifique las condiciones de seguridad de los riesgos que notó en la visita té
 * Comunicaciones: Gotee los contenidos recaudados en el evento, fotos, videos, grabaciones de audio, reseñas, testimonios, trate de dosificar los contenidos para que mantener vivo el espíritu de la gira el mayor tiempo posible.
 
 
+---
 
+# Ciclo
+
+### Concepto
++ Acción
++ Entorno
++ sujeto
+#### Investigación
+#### Abstracción
+
+### producción
+   * Celulas
+   * Estructuras
+   * Cuerdas
+   * Arreglos
+    * Maestría
+
+### Difusión
+    * Crear tono
+    * Seleccionar medios
+    * Generar contenidos
+    +Posible título
+    + 140s
+      + post
+      + Imagen
+      + Likes
+      + Foros
+      + Videos
+
+
+### Socialización
+    * Millas
+    * Retribución
+    * Orden
+    * Sitio
 
 ---
 Colaboradores para este doc: estebangira, medina, luisafarf, elanden, alex, newmusicstrategies
